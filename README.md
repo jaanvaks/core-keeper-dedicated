@@ -7,7 +7,7 @@ Explore an endless cavern of creatures, relics and resources in a mining sandbox
 
 
 ## Supported tags and respective `Dockerfile` links
--	[`latest` (*Dockerfile*)](https://github.com/escapingnetwork/core-keeper-dedicated/blob/main/Dockerfile)
+-	[`latest` (*Dockerfile*)](https://github.com/jaanvaks/core-keeper-dedicated/blob/main/Dockerfile)
 
 ## How to run
 
